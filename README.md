@@ -1,13 +1,15 @@
 # Hi, I'm Arvin 👋
 
-Computer Science graduate from **Simon Fraser University**. I build full-stack web apps and data/ML backends — mostly Python on the server, React or Node.js on the front, and PostgreSQL underneath.
+Computer Science graduate from **Simon Fraser University**. I build full-stack web apps and data/ML backends, mostly Python on the server, React or Node.js on the front, and PostgreSQL underneath.
+
+I'm interested in **Full-Stack**, **Machine Learning**, and **Embedded Systems** projects.
 
 ## Tech
 **Languages:** Python · TypeScript · JavaScript · C++ · C · Java  
 **Backend:** FastAPI · Flask · Node.js/Express · SQLAlchemy · REST APIs  
 **Frontend:** React · HTML/CSS  
 **Data & ML:** pandas · NumPy · scikit-learn · PySpark · SHAP  
-**Infra:** PostgreSQL · MySQL · Docker · AWS (Bedrock · S3) · Azure App Services · GitHub Actions
+**Infra:** PostgreSQL · MySQL · Docker · Azure App Services · GitHub Actions
 
 ## 🚧 Currently Working On
 | Project | What it is |
