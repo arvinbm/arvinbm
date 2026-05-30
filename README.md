@@ -6,7 +6,7 @@ I'm interested in **Full-Stack**, **Machine Learning**, and **Embedded Systems**
 
 ## Tech
 **Languages:** Python · TypeScript · JavaScript · C++ · C · Java  
-**Backend:** FastAPI · Flask · Node.js/Express · SQLAlchemy · REST APIs  
+**Backend:** FastAPI · Flask · Node.js/Express · REST APIs  
 **Frontend:** React · HTML/CSS  
 **Data & ML:** pandas · NumPy · scikit-learn · PySpark · SHAP  
 **Infra:** PostgreSQL · MySQL · Docker · Azure App Services · GitHub Actions
