@@ -14,12 +14,13 @@ I'm interested in **Full-Stack**, **Machine Learning**, and **Embedded Systems**
 ## 🚧 Currently Working On
 | Project | What it is |
 |---|---|
-| [Vancouver Coffee Shop Explorer](https://github.com/arvinbm/Vancouver_Coffee_Shop_Explorer) | Full-stack app with React/TypeScript frontend, Node.js/Express API, PostgreSQL, Docker, Azure |
+| [AI Assistant](https://github.com/arvinbm/AI_Assistant) | Production AI assistant with Python/FastAPI, AWS Bedrock RAG pipeline, and React/TypeScript frontend — currently in Phase 1 |
 | [Mini TCP Protocol](https://github.com/arvinbm/Mini_TCP_Protocol_Implementation) | TCP-over-UDP implementation in C with separate sender/receiver modules |
 
 ## ⭐ Favourite Projects
 | Project | What it is |
 |---|---|
+| [Vancouver Coffee Shop Explorer](https://github.com/arvinbm/Vancouver_Coffee_Shop_Explorer) | Full-stack app with React/TypeScript frontend, Node.js/Express API, PostgreSQL, Docker, Azure — live at [vancouvercoffee.cafe](https://www.vancouvercoffee.cafe/) |
 | [Book & Song Recommender](https://github.com/arvinbm/Book-Song-Recommendation-Web-Application) | Node.js app with 3D Earth visualization, user auth, and CI/CD via GitHub Actions |
 | [Bluetooth Speaker](https://github.com/arvinbm/CMPT433-Bluetooth-Speaker) | Embedded systems project on BeagleBone with HAL architecture, BlueZ Bluetooth, LCD, ARM cross-compilation |
 | [Pac-Man](https://github.com/arvinbm/Pac-Man) | Classic Pac-Man built in JavaScript |
