@@ -5,7 +5,7 @@ Computer Science graduate from **Simon Fraser University**. I build full-stack w
 I'm interested in **Full-Stack**, **Machine Learning**, and **Embedded Systems** projects.
 
 ## Tech
-**Languages:** Python · TypeScript · JavaScript · C++ · C · Java · Haskell
+**Languages:** Python · TypeScript · JavaScript · C++ · C · Java · Haskell  
 **Backend:** FastAPI · Flask · Node.js/Express · REST APIs  
 **Frontend:** React · HTML/CSS  
 **Data & ML:** pandas · NumPy · scikit-learn · PySpark · SHAP  
